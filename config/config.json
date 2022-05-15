@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "chatbot_tp2",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "b0196afb87c964",
+    "password": "bf2fe238",
+    "database": "heroku_6970a8886c53f39",
+    "host": "us-cdbr-east-05.cleardb.net",
+    "dialect": "mysql"
+  }
+}
